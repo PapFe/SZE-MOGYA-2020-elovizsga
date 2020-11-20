@@ -29,5 +29,8 @@ s.t. maxRowLength{r in Rows}: #a leghoszabb sorunk merete
 	bigSor>=rowsLength[r];
 
 minimize Legkisebb: bigSor; #a leghosszabb sor minel kisebb legyen
+
+solve;
+
 printf "%f\n",bigSor;
 
