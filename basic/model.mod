@@ -1,2 +1,2 @@
 
-printf "%f\n",bigSor;
+printf "%f\n",Legkissebb;
