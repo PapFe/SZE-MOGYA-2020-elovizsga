@@ -1,2 +1,2 @@
 
-printf "%f\n",BuildingLength;
+printf "%f\n",bigSor;
