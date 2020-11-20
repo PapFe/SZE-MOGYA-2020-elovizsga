@@ -1,7 +1,7 @@
-param nRows; #max sorsz·m(szelesseg)
+param nRows; #max sorsz√°m(szelesseg)
 set Rows := 1..nRows;#akkor ez legyen set hogy jobban tudjuk hasznalni
 param cashierCount; #mennyi penztert akarunk
-param cashierLength; # 1 penztar hossza
+param cashierLength; # 1 penztar hossz
 
 set ProductGroups; #termekek amiket ki kell rakni
 
